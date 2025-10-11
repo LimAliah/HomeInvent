@@ -1,0 +1,16 @@
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\bin\Debug\net8.0-windows\HomeInvent.exe
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\bin\Debug\net8.0-windows\HomeInvent.deps.json
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\bin\Debug\net8.0-windows\HomeInvent.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\bin\Debug\net8.0-windows\HomeInvent.dll
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\bin\Debug\net8.0-windows\HomeInvent.pdb
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.Form1.resources
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.csproj.GenerateResource.cache
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.dll
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\refint\HomeInvent.dll
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.pdb
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\HomeInvent.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC18\source\repos\HomeInvent\obj\Debug\net8.0-windows\ref\HomeInvent.dll
